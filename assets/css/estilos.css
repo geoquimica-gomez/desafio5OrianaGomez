@@ -34,6 +34,12 @@ body {
   color: #373a3c;
 }
 
+/* Footer */
+
+footer {
+  background-color: #72403E;
+}
+
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
